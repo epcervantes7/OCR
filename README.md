@@ -8,6 +8,8 @@ OpenCV
 
 Tesseract 4 
 
+see the Simple OCR notebook using East and pytesseract.ipynb
+
 this OCR was implemented based on https://www.pyimagesearch.com/2018/09/17/opencv-ocr-and-text-recognition-with-tesseract/
 
 
